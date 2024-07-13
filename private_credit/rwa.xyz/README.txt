@@ -1,0 +1,1 @@
+This data comes from https://app.rwa.xyz/private_credit and includes information on the default status of some RWA (private credit) projects.
